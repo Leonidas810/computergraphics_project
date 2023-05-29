@@ -23,9 +23,9 @@ Este proyecto es un sistema de visualización y manipulación de objetos en 3D u
 
 ## Uso
 1. Ejecuta la aplicación.
-2. Carga un modelo 3D desde el menú "Archivo".
+2. Carga un modelo 3D desde el código.
 3. Utiliza los controles proporcionados para manipular el objeto: traslación (mover), rotación (girar) y escalado (cambiar tamaño).
-4. Ajusta las propiedades de iluminación desde el menú "Iluminación".
+4. Ajusta las propiedades de iluminación desde el código "Iluminación".
 5. Observa los cambios en tiempo real en la ventana de visualización.
 6. Explora las diferentes funciones y opciones disponibles en la interfaz gráfica.
 
